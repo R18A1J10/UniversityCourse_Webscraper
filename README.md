@@ -1,4 +1,4 @@
-# UniversityCourse_Webscraper
+# BA History program at the London School of Economics (LSE) Webscraper
 
 Thank you Green Dream Earth for considering my submission for the Data Entry internship opportunity. 
 
