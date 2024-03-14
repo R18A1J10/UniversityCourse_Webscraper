@@ -3,9 +3,11 @@
 Hello! My name is Raj Dhuri.
 
 Thank you, Green Dream Earth, for considering my submission for the Data Entry internship opportunity.
-
+Coll
 ## Overview
-This project is a web scraper designed to extract relevant information about the BA History program at the London School of Economics (LSE).
+The project was developed in Python using Google Colab.
+
+This project is a web scraper designed to extract relevant information about the BA History program at the London School of Economics (LSE). 
 
 The extracted information includes:
 1. Degree type (undergraduate/postgraduate)
@@ -23,7 +25,7 @@ To run the code, you'll need the following dependencies:
 - Pandas (for data manipulation)
 - RegEx (for string operations and pattern matching)
 
-This project was developed with Google Colab.
+You can access the Google Colab notebook for this project [here](https://colab.research.google.com/drive/1igAF2aCY1rvD392CadzRzkUUMIXlGWYj?usp=sharing).
 
 You can install these dependencies using pip:
 
