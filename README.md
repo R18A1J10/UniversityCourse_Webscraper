@@ -1,6 +1,8 @@
 # BA History program at the London School of Economics (LSE) Webscraper
 
-Thank you Green Dream Earth for considering my submission for the Data Entry internship opportunity. 
+Hello! My name is Raj Dhuri.
+
+Thank you, Green Dream Earth, for considering my submission for the Data Entry internship opportunity.
 
 ## Overview
 This project is a web scraper designed to extract relevant information about the BA History program at the London School of Economics (LSE).
